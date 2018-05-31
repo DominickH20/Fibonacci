@@ -1,2 +1,4 @@
+import time
+
 def fib(n):
   #do stuff
