@@ -5,7 +5,7 @@ from recursiveFib import recursiveFib
 
 mat = matrixFib
 
-file = open('matTimes.txt', 'r+')
+file = open('RunTimes.txt', 'r+')
 
 for i in range (0,1000000,10000):
     a = time.time()
